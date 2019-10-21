@@ -1,6 +1,6 @@
 piaic is educating the people with advanced come-ups
 Artificial Intelligence
-IOT
+Internet of Things
 Block Chain
 Cloud Computing
 5g
