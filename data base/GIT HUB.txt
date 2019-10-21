@@ -1,1 +1,1 @@
-remote repositries
+remote repositories can be added to local repository 
